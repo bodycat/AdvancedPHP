@@ -1,2 +1,3 @@
-# AdvancedPHP
-Geekbrains AdvancedPHP
+# GeekBrains. PHP. Уровень 2.
+
+Преподаватель: Анатолий Костыренко
